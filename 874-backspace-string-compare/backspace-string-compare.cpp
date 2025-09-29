@@ -33,7 +33,7 @@ public:
             s1.pop();
             s2.pop();
         }
-        // if(!s1.empty()||!s2.empty()) return false;
-        return s1.empty()&&s2.empty();
+        if(!s1.empty()||!s2.empty()) return false;
+        return true;
     }
 };
