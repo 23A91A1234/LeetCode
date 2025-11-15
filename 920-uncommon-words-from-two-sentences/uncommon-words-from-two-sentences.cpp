@@ -1,13 +1,21 @@
 class Solution {
 public:
-vector<string> splitWords(const string &sentence) {
-    stringstream ss(sentence);
-    string word;
+vector<string> splitWords(string &sentence) {
+    string word="";
     vector<string> words;
-
-    while (ss >> word) {
-        words.push_back(word);
+    for(int i=0;i<sentence.size();i++)
+    {
+        if(sentence[i]!=' ')
+        {
+            word+=sentence[i];
+        }
+        else
+        {
+            words.push_back(word);
+            word="";
+        }
     }
+    words.push_back(word);
     return words;
 }
     vector<string> uncommonFromSentences(string s1, string s2) {
