@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* res=NULL;
+         ListNode* res=NULL;
         ListNode* tail=NULL;
         int b=0;
         while(l1!=NULL&&l2!=NULL)
@@ -56,11 +56,6 @@ public:
             tail->next=newnode;
             tail=newnode;
         }
-        // while(res!=NULL)
-        // {
-        //     cout<<res->val<<" ";
-        //     res=res->next;
-        // }
         return res;
     }
 };
