@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A1234/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Tree
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/23A91A1234/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/23A91A1234/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/23A91A1234/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/23A91A1234/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
