@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/23A91A1234/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/23A91A1234/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A1234/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A1234/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A1234/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/23A91A1234/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A1234/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A1234/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
