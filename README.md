@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/23A91A1234/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A1234/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/23A91A1234/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A1234/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/23A91A1234/LeetCode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A1234/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A1234/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/23A91A1234/LeetCode/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A1234/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
