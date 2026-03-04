@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/23A91A1234/LeetCode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A1234/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/23A91A1234/LeetCode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A1234/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/23A91A1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/23A91A1234/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
