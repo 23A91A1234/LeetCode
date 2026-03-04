@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/23A91A1234/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/23A91A1234/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/23A91A1234/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Greedy
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/23A91A1234/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/23A91A1234/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
