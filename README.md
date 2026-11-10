@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A1234/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A1234/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23A91A1234/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3693-climbing-stairs-ii](https://github.com/23A91A1234/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23A91A1234/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/23A91A1234/LeetCode/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
